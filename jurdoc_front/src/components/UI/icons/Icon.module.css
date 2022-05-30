@@ -1,0 +1,32 @@
+.Icon {
+    padding: 10px;
+    width: 150px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 15px;
+    box-shadow: 0 0 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+.IconImg {
+    margin-b: 50px;
+    width: 150px;
+    height: 150px;
+}
+
+.Name {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Name p {
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+}

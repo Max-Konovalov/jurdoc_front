@@ -1,0 +1,23 @@
+.submitBtn {
+    margin: 10px;
+    padding: 5px 15px;
+    color: white;
+    background-color: orange;
+    border: 2px solid orange;
+    font-size: 14px;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+.cancelBtn {
+    margin: 5px;
+    padding: 5px 15px;
+    color: darkred;
+    background-color: transparent;
+    font-size: 14px;
+    border: 2px solid darkred;
+    border-radius: 5px;
+    cursor: pointer;
+
+}

@@ -1,0 +1,20 @@
+.navbar {
+    color: white;
+    background: lightskyblue;
+    height: 60px;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+.navbar__links {
+    color: white;
+    width: 500px;
+    /*margin-left: auto;*/
+    /*margin: 5px;*/
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

@@ -1,0 +1,4 @@
+.IconList {
+    display: flex;
+    flex-wrap: wrap;
+}
